@@ -10,5 +10,4 @@ class Person {
     }
 }
 
-var person : Person = new Person('Eugene');
-console.log(person.greet());
+export { Person };

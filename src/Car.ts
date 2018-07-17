@@ -36,7 +36,5 @@ class Car {
     }
 }
 
-var oneCar : Car = new Car('0747BNG',0,'Eugene Krabs',40);
-oneCar.start(); 
-
-console.log(oneCar.drive(5));
+export { Car };
+export { Car as Vehicle };

@@ -4,3 +4,7 @@ class Language {
         this.name = name;
     }
 }
+
+export { Language };
+export { Customer } from "./Customer";
+
