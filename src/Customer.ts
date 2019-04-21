@@ -8,8 +8,8 @@ class Customer {
     }
 }
 
-class Customer {
+/*class Customer {
     constructor (private name: string, private isVip: boolean){}
-}
+}*/
 
 export { Customer };
